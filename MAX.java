@@ -110,6 +110,7 @@ public class MAX {
             Services obj = new Services();
             if (value == 1){
                 obj.appointment();
+
             }else if (value == 2){
                 obj.Laboratory();
             } else if (value == 3) {
